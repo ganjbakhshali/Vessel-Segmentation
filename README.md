@@ -14,6 +14,7 @@ pip install numpy opencv-python tqdm imageio albumentations torch torchvision
 ## Dataset
 
 The dataset used in this project consists of retinal fundus images and corresponding masks that highlight the blood vessels. The data should be organized as follows:
+Download Dataset: [Link](https://www.kaggle.com/datasets/zionfuo/drive2004?resource=download)
 
 ```
 RetinaData/
@@ -26,7 +27,7 @@ RetinaData/
 
 ```
 
-Make sure to place your `.tif` images in the `images` directory and the corresponding `.gif` masks in the `1st_manual` directory.## Usage
+Make sure to place your `.tif` images in the `images` directory and the corresponding `.gif` masks in the `1st_manual` directory.
 
 1. Clone the repository:
 
