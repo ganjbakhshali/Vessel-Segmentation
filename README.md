@@ -59,4 +59,4 @@ In this image:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.perplexity.ai/search/LICENSE) file for details. Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback is highly appreciated!
+This project is licensed under the MIT License.  Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback is highly appreciated!
