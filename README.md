@@ -2,13 +2,7 @@
 
 ## Overview
 
-This project implements a U-Net architecture for segmenting blood vessels in retinal fundus images. The goal is to accurately identify and delineate the vascular structures, which is crucial for diagnosing various ocular diseases. The model is trained on a dataset of retinal images and their corresponding ground truth masks.## Table of Contents
-
-* [Installation](https://www.perplexity.ai/search/yn-khd-r-z-btd-t-nth-bry-mn-tw-LXnfUrSIRBGUDv_UlNDsZg#installation)
-* [Dataset](https://www.perplexity.ai/search/yn-khd-r-z-btd-t-nth-bry-mn-tw-LXnfUrSIRBGUDv_UlNDsZg#dataset)
-* [Usage](https://www.perplexity.ai/search/yn-khd-r-z-btd-t-nth-bry-mn-tw-LXnfUrSIRBGUDv_UlNDsZg#usage)
-* [Results](https://www.perplexity.ai/search/yn-khd-r-z-btd-t-nth-bry-mn-tw-LXnfUrSIRBGUDv_UlNDsZg#results)
-* [License](https://www.perplexity.ai/search/yn-khd-r-z-btd-t-nth-bry-mn-tw-LXnfUrSIRBGUDv_UlNDsZg#license)
+This project implements a U-Net architecture for segmenting blood vessels in retinal fundus images. The goal is to accurately identify and delineate the vascular structures, which is crucial for diagnosing various ocular diseases. The model is trained on a dataset of retinal images and their corresponding ground truth masks.
 
 ## Installation
 
